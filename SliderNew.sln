@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SliderNew", "SliderNew\SliderNew.csproj", "{58669B6B-4768-4B4E-8C6A-012C822EBD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{01AB30E0-AE0C-4A3C-8574-070999F474D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58669B6B-4768-4B4E-8C6A-012C822EBD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58669B6B-4768-4B4E-8C6A-012C822EBD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58669B6B-4768-4B4E-8C6A-012C822EBD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58669B6B-4768-4B4E-8C6A-012C822EBD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AB30E0-AE0C-4A3C-8574-070999F474D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AB30E0-AE0C-4A3C-8574-070999F474D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AB30E0-AE0C-4A3C-8574-070999F474D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AB30E0-AE0C-4A3C-8574-070999F474D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78AC79D1-F610-4ABF-952E-A5EB32DE5189}
+	EndGlobalSection
+EndGlobal
